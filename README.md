@@ -8,7 +8,6 @@ Development of a model for predicting the volume of orders based on time series.
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Project Status](#project-status)
-* [Room for Improvement](#room-for-improvement)
 
 
 ## General Information
